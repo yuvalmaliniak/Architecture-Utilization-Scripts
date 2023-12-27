@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yuvalmaliniak
-- 👀 I’m interested in DevOps tools and Python programming. 
+- 👀 I’m interested in DevOps tools and programming. 
 - 🌱 I’m currently a system administrator, and a 2nd year Computer Science student.
 - Programming languages: Python, Java, C.
 - Scripting languages: Python, PowerShell, Bash.
