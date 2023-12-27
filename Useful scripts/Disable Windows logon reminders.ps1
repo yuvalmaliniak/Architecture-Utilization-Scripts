@@ -1,5 +1,6 @@
 # This script disables the pop up of password reminder - "Windows needs your current credentials"
 # Can be deployed via MDM, or locally installed with admin privileges
+
 # Function to write script log to a file, contains time stamp for better visibility 
 $Logfile = "PATHtoFILE\fix_win_popup_logon_reminder.log"
 function WriteLog
