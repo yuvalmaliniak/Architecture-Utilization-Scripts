@@ -1,4 +1,5 @@
 # This script receives from csv a list of Okta apps and disables them. 
+# Please note that there is a org-wide rate limit for bulk deletion (Status code 429)- https://developer.okta.com/docs/reference/rate-limits/#:~:text=If%20any%20org%2Dwide%20rate,checking%20Okta's%20rate%20limiting%20headers
 # Input: List of IDs of Okta apps in a csv file containing 1 column
 # Output: the script outputs status codes during the process
 import requests
