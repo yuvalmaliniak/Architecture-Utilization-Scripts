@@ -1,0 +1,7 @@
+Use this to create AWS Lambda functions that will turn on and off ec2 instances. 
+You can use schedules for that using AWS Event Bridge.
+Usage:
+Use each of the .py scripts for the lambda functions.
+Use the JSON file for creating an IAM role using the IAM policy specified in the JSON file, and attach it to the Lambda function. 
+
+More info can be found here: https://repost.aws/knowledge-center/start-stop-lambda-eventbridge
